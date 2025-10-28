@@ -10,11 +10,11 @@ Currently working on a portfolio project — **Smart Event Planner** — to show
 ### 🧠 Tech Stack
 - **Languages:** Java, SQL, JavaScript  
 - **Frameworks:** Spring Boot, REST APIs, Microservices  
-- **Databases:** MongoDB, MySQL  
-- **Messaging:** Kafka  
-- **Cloud:** AWS (S3, Lambda, CloudWatch)  
-- **DevOps:** Docker, Jenkins, GitHub Actions  
-- **Monitoring:** Splunk  
+- **Databases:** MongoDB, MySQL, PostgreSql  
+- **Messaging:** Kafka, Amazon SQS  
+- **Cloud:** AWS (S3, Lambda, EC2, SQS, CloudWatch)  
+- **DevOps:** Docker, Jenkins, GitHub Actions, Kubernetes 
+- **Monitoring:** Splunk, CloudWatch  
 
 ---
 
