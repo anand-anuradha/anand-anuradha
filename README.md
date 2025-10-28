@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Anuradha Anand  
 
-<!--
-**anand-anuradha/anand-anuradha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Java Backend Developer | AWS | Kafka | Microservices**
 
-Here are some ideas to get you started:
+I’m a passionate backend developer with nearly 5 years of experience building scalable and secure microservices using **Java, Spring Boot, Kafka, AWS (S3, Lambda, CloudWatch)**, and **MongoDB**.  
+Currently working on a portfolio project — **Smart Event Planner** — to showcase my skills in real-world backend architecture.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+- **Languages:** Java, SQL, JavaScript  
+- **Frameworks:** Spring Boot, REST APIs, Microservices  
+- **Databases:** MongoDB, MySQL  
+- **Messaging:** Kafka  
+- **Cloud:** AWS (S3, Lambda, CloudWatch)  
+- **DevOps:** Docker, Jenkins, GitHub Actions  
+- **Monitoring:** Splunk  
+
+---
+
+### 🚀 Featured Project
+#### [Smart Event Planner (WIP)](https://github.com/anand-anuradha/smart-event-planner)
+Microservice-based event management system built with Java, Spring Boot, Kafka, and AWS S3.
+
+---
+
+### 📊 GitHub Stats
+![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-anuradha&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+📧 **Email:** anandanuradha12@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/anuradha-anand12)
