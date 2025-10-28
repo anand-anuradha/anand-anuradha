@@ -24,10 +24,9 @@ Microservice-based event management system built with Java, Spring Boot, Kafka, 
 
 ---
 
-### 📊 GitHub Stats
-![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-anuradha&show_icons=true&theme=tokyonight)
+<!-- ### 📊 GitHub Stats
+![Anuradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand-anuradha&show_icons=true&theme=tokyonight) -->
 
----
 
 ### 🌐 Connect with Me
 📧 **Email:** anandanuradha12@gmail.com  
